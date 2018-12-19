@@ -22,7 +22,7 @@
     PhD. student<br />
     Telephone number: (+47) 928 81 237<br />		
     Univeristy E-mail: S.L.Bore(at)kjemi.uio.no <br />    <!-- <img src="email.php"> <br /> -->
-    Please use my <a href="9B8B7388B9AB82DD.asc"  target="_blank">public key</a> for mail encryption.<br /> 
+    Please use my <a href="extra/9B8B7388B9AB82DD.asc"  target="_blank">public key</a> for mail encryption.<br /> 
     ORCID: <a href="https://orcid.org/0000-0002-8620-4885">0000-0002-8620-4885</a>
 </i>    
 </b>
