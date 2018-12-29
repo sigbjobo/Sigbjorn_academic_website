@@ -137,21 +137,21 @@
 <hr />
 
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
-<?php
-   $count = file_get_contents("count.txt");
-   $count = trim($count);
-   $count = $count + 1;
-   $fl = fopen("count.txt","w+");
-   fwrite($fl,$count);
-   fclose($fl);
-   ?>
-Number of visits:
-<?php
-   include "count.txt"
-   ?>.
+<!-- <?php -->
+<!--    $count = file_get_contents("count.txt"); -->
+<!--    $count = trim($count); -->
+<!--    $count = $count + 1; -->
+<!--    $fl = fopen("count.txt","w+"); -->
+<!--    fwrite($fl,$count); -->
+<!--    fclose($fl); -->
+<!--    ?> -->
+<!-- Number of visits: -->
+<!-- <?php -->
+<!--    include "count.txt" -->
+<!--    ?>. -->
 
-<?php
-   echo "Last modified: " . date ("F d Y.", getlastmod());
-   ?>
-</body>
+<!-- <?php -->
+<!--    echo "Last modified: " . date ("F d Y.", getlastmod()); -->
+<!--    ?> -->
+<!-- </body> -->
 </html>
