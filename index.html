@@ -135,24 +135,8 @@
 
 </ul> 
 <hr />
-<script>
-  function myFunction(){
-  let targetUrl = 'https://folk.uio.no/sigbjobo/';
-  let query = '?url=' + encodeURIComponent(targetUrl);
-  let xmlHttp = new XMLHttpRequest();
-  xmlHttp.open('GET', 'https://hitcounter.pythonanywhere.com/nocount' + query, false);
-  xmlHttp.send(null);
-  count = xmlHttp.responseText;
-  let targetUrl = 'https://sigbjobo.github.io/sigbjobo/';
-  let query = '?url=' + encodeURIComponent(targetUrl);
-  let xmlHttp = new XMLHttpRequest();
-  xmlHttp.open('GET', 'https://hitcounter.pythonanywhere.com/nocount' + query, false);
-  xmlHttp.send(null);
-  return count + xmlHttp.responseText;
-  }
-</script>
-document.getElementById("demo").innerHTML = myFunction(77);
-<!-- #<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits"> -->
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
+
 <!-- <?php -->
 <!--    $count = file_get_contents("count.txt"); -->
 <!--    $count = trim($count); -->
