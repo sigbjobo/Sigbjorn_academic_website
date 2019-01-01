@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=latex 2018.10.4)  1 JAN 2019 13:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=latex 2018.10.4)  1 JAN 2019 13:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -7,8 +7,8 @@ de"##1"{\Link##1}\expandafter\HCode\else\expandafter\Link\fi}\def\Link#1.a.b.c.
 {\g@addto@macro\@documentclasshook{\RequirePackage[#1,html]{tex4ht}}\let\HCode\
 documentstyle\def\documentstyle{\let\documentstyle\HCode\expandafter\def\csname
  tex4ht\endcsname{#1,html}\def\HCode####1{\documentstyle[tex4ht,}\@ifnextchar[{
-\HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode .a.b.c.\input  30_12_2018.t
-ex
+\HCode}{\documentstyle[tex4ht]}}}\makeatother\HCode xhtml, charset=utf-8.a.b.c.
+\input  30_12_2018.tex
 (./30_12_2018.tex (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
@@ -535,9 +535,6 @@ File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 
 (./30_12_2018.tmp)
 \tmp:dim=\skip43
---------------------------------------
---- Note --- for XML code, use the command line option `xml' or `xhtml'
---------------------------------------
  (./30_12_2018.xref)
 \:refout=\write3
 \openout3 = `30_12_2018.xref'.
@@ -577,10 +574,6 @@ version 2009-05-18-23:01
 (/usr/share/texlive/texmf-dist/tex/generic/tex4ht/html4.4ht
 version 2016-12-18-16:45
 --------------------------------------
---- Note --- for alternative charset, use the command line option `charset=...'
-
---------------------------------------
---------------------------------------
 --- Note --- to ignore CSS font decoration, use the `NoFonts' command line opti
 on
 --------------------------------------
@@ -605,7 +598,7 @@ option `frames-fn'
 --------------------------------------
 --- Note --- for file extension name xht, use the command line option `xht'
 --------------------------------------
-TeX4ht package options: html
+TeX4ht package options: xhtml,charset=utf-8,html
 --------------------------------------
 --- Note --- To print a timestamp, use the command line option timestamp
 --------------------------------------
@@ -927,12 +920,12 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 32.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 32.
  ) 
 Here is how much of TeX's memory you used:
- 8527 strings out of 493014
- 112197 string characters out of 6135708
- 320113 words of memory out of 5000000
- 11915 multiletter control sequences out of 15000+600000
+ 8532 strings out of 493014
+ 112246 string characters out of 6135708
+ 320495 words of memory out of 5000000
+ 11920 multiletter control sequences out of 15000+600000
  7593 words of font info for 21 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,5n,27p,703b,465s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,5n,27p,723b,465s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 30_12_2018.dvi (1 page, 11076 bytes).
+Output written on 30_12_2018.dvi (1 page, 11292 bytes).
