@@ -9,7 +9,6 @@ htfcss: ectt  font-family: monospace;
 File: 03-01-2019.html
 File: 03-01-2019.css
 File: 03-01-2019.tmp
-File: 03-01-2019.tmp
 Css: p.noindent { text-indent: 0em }
 Css: td p.noindent { text-indent: 0em; margin-top:0em; }
 Css: p.nopar { text-indent: 0em; }
@@ -125,6 +124,6 @@ Css: .quotation {margin-bottom:0.25em; margin-top:0.25em; margin-left:1em; }
 Css: .abstract p {margin-left:5%; margin-right:5%;}
 Css: div.abstract {width:100%;}
 Css: .figure img.graphics {margin-left:10%;}
---- needs --- 03-01-2019.idv[2] ==> 03-01-20190x.png ---
+File: 03-01-2019.png
 --- characters ---
 Font("ecrm","1200","12","100")
