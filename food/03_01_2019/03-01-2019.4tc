@@ -1,2 +1,2 @@
 \expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi
-\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-1000}{QQ2-1-1}{R{\o }mmegr{\o }t, 30.12.2018}}{1}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-1000}{QQ2-1-1}{Risengrynsgr\IeC {\o }t, 03.01.2019}}{1}\relax 
