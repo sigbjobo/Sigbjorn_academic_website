@@ -4,15 +4,33 @@ BODY {
   /* background-color: #68b0d8; */
   /* background-color: #78c0e8; */
   /* background-color: #ebebff; */
-  margin: 20px;
+
 }
 
+#container {
+    background-color: white;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#seitenbereich{
+    width: 900px;
+    margin:auto;
+    text-align:left;
+  }
 H1, H2, H3, H4 {font-family: Trebuchet MS, Verdana, Arial, Helvetica;}
 P {margin-left: 10pt;}
 
 PRE {margin-left: 20pt;}
 
- 
+#footer {
+    clear: both;
+    padding: 10px;
+    background-color: #999999;
+    color: white;
+    text-align: right;
+}
 
 UL.publication LI { margin-bottom: 10px; }
 
@@ -78,6 +96,7 @@ p.abstract {
       margin-top: -12px;
       margin-left: 10px;
       margin-right: 10px;
+      
 }
 
 /* unvisited link */
