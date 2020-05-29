@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="utf-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta content="width=device-width, initial-scale=1" name="viewport">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Hjem</title>
+
+    <!-- ds.css inneholder responsiv grid som kan benyttes. Widgets vil også bruke dette, bør derfor inkluderes -->
+    <link href="themes/Basic/dsFramework/css/ds.css" rel="stylesheet">
+
+    <!-- style.css er den filen du legger inn dine stilsettinger i -->
+    <link href="themes/Basic/css/style.css" rel="stylesheet">
+
+    <!-- custom.css genereres av systemet -->
+    <link href="themes/Basic/css/custom.css" rel="stylesheet">
+
+    <!-- user.css genereres av systemet, men er fritekst feltet hvor man kan skrive css fritt -->
+    <link href="themes/Basic/css/user.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="themes/Basic/js/html5shiv.min.js"></script>
+    <script src="themes/Basic/js/respond.min.js"></script>
+
+
+    <![endif]-->
+
+<meta content="sidebygger 2.0" name="domeneshop"><meta content="" name="description"></head>
+<body id="hjem">
+
+<div class="site">
+
+
+    <div class="container" id="main">
+        <div class="row">
+            
+        </div>
+
+        <div class="row">
+            
+        </div>
+
+        <div class="row block-1">
+            <div class="col-m-12 col-12"><h1>Velkommen til v&aring;re nettsider</h1><p>V&aring;re nettsider er under utarbeidelse...</p></div>
+        </div>
+
+        
+
+        
+
+        
+        
+
+    </div>
+</div>
+<script src="themes/Basic/dsFramework/js/ds.js"></script>
+</body>
+</html><!--This page was generated using the Domainname.shop sitebuilder. The theme, CSS and other design elements of this website is licensed under Creative Commons Attribution 4.0 (https://sidebygger.domeneshop.no/license.txt).-->
